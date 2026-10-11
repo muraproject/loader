@@ -1,1 +1,18 @@
 
+{
+  "links": [
+    {
+      "name": "MURA PROJECT MyID",
+      "url": "https://apicam.muraproject.my.id"
+    },
+    {
+      "name": "MURA PROJECT Cloud",
+      "url": "https://apicam.muraproject.cloud"
+    },
+    {
+      "name": "WAJASA",
+      "url": "https://apicam.wajasa.my.id"
+    }
+  ]
+}
+
